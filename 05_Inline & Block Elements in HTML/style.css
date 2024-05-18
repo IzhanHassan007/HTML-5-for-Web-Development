@@ -1,0 +1,15 @@
+a{
+    background-color:aqua;
+}
+
+p{
+    background-color: rgb(219, 71, 221);
+}
+
+div{
+    background-color: yellow !important;
+}
+
+span{
+    background-color: rgb(92, 203, 32);
+}
